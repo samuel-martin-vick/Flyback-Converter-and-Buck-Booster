@@ -18,8 +18,10 @@ Schematics for 12VAC to DC conversion, and then DC/DC adjustable buck-booster:
 LTspice simulation schematic for the buck-boost part:
 <img width="1499" height="376" alt="image" src="https://github.com/user-attachments/assets/6015aa05-bac2-452b-a791-a1f364741cd2" />
 
+
 PCB with all components soldered on:
 <img width="3154" height="2618" alt="elec2PCBphoto" src="https://github.com/user-attachments/assets/42f92952-839a-4e67-b04b-8cfe1c8b1dd1" />
+
 
 Setup for testing the flyback converter:
 
