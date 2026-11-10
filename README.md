@@ -22,9 +22,11 @@ PCB with all components soldered on:
 <img width="3154" height="2618" alt="elec2PCBphoto" src="https://github.com/user-attachments/assets/42f92952-839a-4e67-b04b-8cfe1c8b1dd1" />
 
 Setup for testing the flyback converter:
+
 <img width="546" height="900" alt="testing setup" src="https://github.com/user-attachments/assets/28dc6fda-b459-47a3-9c6c-9e92186613cf" />
 
 Flyback output voltage:
+
 <img width="309" height="246" alt="voltage readout" src="https://github.com/user-attachments/assets/cbb3d1cf-ac32-4035-ad05-cd248cca3e24" />
 
 
